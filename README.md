@@ -11,8 +11,3 @@
 - <i class="devicon-javascript-plain colored"></i> - **[Sorting Algorithms](https://github.com/maciejb2k/sorting_algorithms_js)** - app visualizing basic sorting algorithms
 - <i class="devicon-postgresql-plain colored"></i> - **[Electronics Store](https://github.com/maciejb2k/electronics-store)** - full-stack project with back-end made in PL/pgSQL
 - <i class="devicon-java-plain colored"></i> - **[Simple CRUD](https://github.com/maciejb2k/javafx_simple_crud)** - admin panel made with JavaFX + Hibernate
-
-### My works:
-- <i class="devicon-html5-plain colored"></i> - **[Karabela Serwis](http://serwis.karabela.com.pl/)** - security company website
-- <i class="devicon-html5-plain colored"></i> - **[Lublin detailing](http://lublindetailing.pl/)** - car detailing website
-- <i class="devicon-html5-plain colored"></i> - **[Teleprank.pl](https://teleprank.pl/)** - I was responsible for UI/UX and front-end
