@@ -1,4 +1,6 @@
+```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+```
 
 ### My GitHub projects:
 - <i class="devicon-rails-plain colored"></i> - **[IT job board](https://github.com/maciejb2k/it-job-board-rails)** - Rails REST API job posting platform
