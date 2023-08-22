@@ -3,6 +3,7 @@
 💻 Currently I'm learning Rails and back-end related stuff, new projects comming soon.
 
 ### My GitHub projects:
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **\*NEW\*** **[ChronLife](https://github.com/maciejb2k/chronlife)** - Social platform for people with chronic diseases.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **[IT job board](https://github.com/maciejb2k/it-job-board-rails)** - Rails REST API job posting platform.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **[Cookbook](https://github.com/maciejb2k/cookbook-RBE4)** - group project done during onsite Rails academy.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **[Windows 10 explorer clone](https://github.com/maciejb2k/windows-explorer-clone)** - I recreated windows explorer 1:1.
