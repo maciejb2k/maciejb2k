@@ -19,4 +19,5 @@ It's worth checking out the project [ChronLife](https://github.com/maciejb2k/chr
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **[Dev blog](https://github.com/maciejb2k/dev-blog)** - personal blog about what I learned.
 
 #### Others:
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **\*NEW\*** **[No Bullsh*t Git](https://github.com/maciejb2k/no-bs-git)** - my take on explaining fundamental Git concepts.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **[Electronics store](https://github.com/maciejb2k/electronics-store)** - full-stack project with back-end made in PL/pgSQL.
