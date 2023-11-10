@@ -26,16 +26,16 @@ It's worth checking out the project [ChronLife](https://github.com/maciejb2k/chr
 You can take a look at the UI on some of my side projects below.
 
 <p style="float: left;">
-  <a href="https://github.com/maciejb2k/chronlife"><img src="screenshots/chronlife_1.jpg" alt="" style="width: 19%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
-  <a href="https://github.com/maciejb2k/chronlife"><img src="screenshots/chronlife_2.jpg" alt="" style="width: 19%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
-  <a href="https://github.com/maciejb2k/it-job-board-next"><img src="screenshots/job_board_1.jpg" alt="" style="width: 19%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
-  <a href="https://github.com/maciejb2k/pathfinding_app"><img src="screenshots/path_2.jpg" alt="" style="width: 19%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
-  <a href="https://github.com/maciejb2k/square_breathing"><img src="screenshots/breath_2.jpg" alt="" style="width: 19%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
+  <a href="https://github.com/maciejb2k/chronlife"><img src="screenshots/chronlife_1.jpg" alt="" style="width: 18%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
+  <a href="https://github.com/maciejb2k/chronlife"><img src="screenshots/chronlife_2.jpg" alt="" style="width: 18%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
+  <a href="https://github.com/maciejb2k/it-job-board-next"><img src="screenshots/job_board_1.jpg" alt="" style="width: 18%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
+  <a href="https://github.com/maciejb2k/pathfinding_app"><img src="screenshots/path_2.jpg" alt="" style="width: 18%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
+  <a href="https://github.com/maciejb2k/square_breathing"><img src="screenshots/breath_2.jpg" alt="" style="width: 18%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
 </p>
 <p style="float: left;">
-  <a href="https://github.com/maciejb2k/square_breathing"><img src="screenshots/breath_1.jpg" alt="" style="width: 19%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
-  <a href="https://maciejb2k.github.io/no-bs-git/"><img src="screenshots/nobsgit_1.jpg" alt="" style="width: 19%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
-  <a href="https://github.com/maciejb2k/windows-explorer-clone"><img src="screenshots/windows_1.jpg" alt="" style="width: 19%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
-  <a href="https://github.com/maciejb2k/cardistrystats_frontend"><img src="screenshots/cstats_2.jpg" alt="" style="width: 19%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
-  <a href="https://github.com/maciejb2k/cardistrystats_frontend"><img src="screenshots/cstats_1.jpg" alt="" style="width: 19%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
+  <a href="https://github.com/maciejb2k/square_breathing"><img src="screenshots/breath_1.jpg" alt="" style="width: 18%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
+  <a href="https://maciejb2k.github.io/no-bs-git/"><img src="screenshots/nobsgit_1.jpg" alt="" style="width: 18%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
+  <a href="https://github.com/maciejb2k/windows-explorer-clone"><img src="screenshots/windows_1.jpg" alt="" style="width: 18%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
+  <a href="https://github.com/maciejb2k/cardistrystats_frontend"><img src="screenshots/cstats_2.jpg" alt="" style="width: 18%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
+  <a href="https://github.com/maciejb2k/cardistrystats_frontend"><img src="screenshots/cstats_1.jpg" alt="" style="width: 18%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
 </p>
