@@ -1,4 +1,4 @@
-## Hello there 👋
+### Hello there 👋
 
 Within next 3 months  I will be looking for my first job as a **Full-Stack Ruby on Rails Developer** or a **Front-End Developer**. I'm also open to other opportunities.
 
@@ -24,7 +24,7 @@ It's worth checking out the project [ChronLife](https://github.com/maciejb2k/chr
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **[Electronics store](https://github.com/maciejb2k/electronics-store)** - full-stack project with back-end made in PL/pgSQL.
 
 #### Screenshots:
-You can take a look at the UI of some of my side projects below.
+You can take a look at the UI on some of my side projects below.
 
 <p style="float: left;">
   <a href="https://github.com/maciejb2k/chronlife"><img src="screenshots/chronlife_1.jpg" alt="" style="width: 19%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
