@@ -26,68 +26,28 @@ It's worth checking out the project [ChronLife](https://github.com/maciejb2k/chr
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **[Electronics store](https://github.com/maciejb2k/electronics-store)** - full-stack project with back-end made in PL/pgSQL.
 
 #### Screenshots:
-You can take a quick look at the UI of some of my side projects below.
 
-##### Chronlife:
-<a href="https://github.com/maciejb2k/chronlife">
-  <p style="float: left;">
-    <img src="screenshots/chronlife_1.jpg" alt="" style="width: 45%;">
-    <img src="screenshots/chronlife_2.jpg" alt="" style="width: 45%;">
-  </p>
-</a>
-
-##### IT Job Board:
-<a href="https://github.com/maciejb2k/it-job-board-next">
-  <p style="float: left;">
-    <img src="screenshots/job_board_1.jpg" alt="" style="width: 45%;">
-    <img src="screenshots/job_board_2.jpg" alt="" style="width: 45%;">
-  </p>
-</a>
-
-##### Pathfinding in the store:
-<a href="https://github.com/maciejb2k/pathfinding_app">
-  <p style="float: left;">
-    <img src="screenshots/path_1.jpg" alt="" style="width: 45%;">
-    <img src="screenshots/path_2.jpg" alt="" style="width: 45%;">
-  </p>
-</a>
-
-##### Square breathing:
-<a href="https://github.com/maciejb2k/square_breathing">
-  <p style="float: left;">
-    <img src="screenshots/breath_1.jpg" alt="" style="width: 45%;">
-    <img src="screenshots/breath_2.jpg" alt="" style="width: 45%;">
-  </p>
-</a>
-
-##### No Bullsh*t Git:
-<a href="https://github.com/maciejb2k/no-bs-git">
-  <p style="float: left;">
-    <img src="screenshots/nobsgit_1.jpg" alt="" style="width: 45%;">
-    <img src="screenshots/nobsgit_2.jpg" alt="" style="width: 45%;">
-  </p>
-</a>
-
-##### Windows 10 Explorer clone:
-<a href="https://github.com/maciejb2k/windows-explorer-clone">
-  <p style="float: left;">
-    <img src="screenshots/windows_1.jpg" alt="" style="width: 45%;">
-    <img src="screenshots/windows_2.jpg" alt="" style="width: 45%;">
-  </p>
-</a>
-
-##### CardistryStats:
-<a href="https://github.com/maciejb2k/cardistrystats_frontend">
-  <p style="float: left;">
-    <img src="screenshots/cstats_1.jpg" alt="" style="width: 45%;">
-    <img src="screenshots/cstats_2.jpg" alt="" style="width: 45%;">
-  </p>
-</a>
-
-##### Dev Blog:
-<a href="https://github.com/maciejb2k/dev-blog">
-  <p style="float: left;">
-    <img src="screenshots/devblog_1.jpg" alt="" style="width: 45%;">
-    <img src="screenshots/devblog_2.jpg" alt="" style="width: 45%;">
-  </p>
-</a>
+<p style="float: left;">
+  <img src="screenshots/chronlife_1.jpg" alt="" style="width: 20%; border-radius: 3px; border: 1px solid #eaeaea;">
+  <img src="screenshots/chronlife_2.jpg" alt="" style="width: 20%; border-radius: 3px; border: 1px solid #eaeaea;">
+  <img src="screenshots/job_board_1.jpg" alt="" style="width: 20%; border-radius: 3px; border: 1px solid #eaeaea;">
+  <img src="screenshots/job_board_2.jpg" alt="" style="width: 20%; border-radius: 3px; border: 1px solid #eaeaea;">
+</p>
+<p style="float: left;">
+    <img src="screenshots/path_1.jpg" alt="" style="width: 20%; border-radius: 3px; border: 1px solid #eaeaea;">
+    <img src="screenshots/path_2.jpg" alt="" style="width: 20%; border-radius: 3px; border: 1px solid #eaeaea;">
+    <img src="screenshots/breath_1.jpg" alt="" style="width: 20%; border-radius: 3px; border: 1px solid #eaeaea;">
+    <img src="screenshots/breath_2.jpg" alt="" style="width: 20%; border-radius: 3px; border: 1px solid #eaeaea;">
+</p>
+<p style="float: left;">
+    <img src="screenshots/nobsgit_1.jpg" alt="" style="width: 20%; border-radius: 3px; border: 1px solid #eaeaea;">
+    <img src="screenshots/nobsgit_2.jpg" alt="" style="width: 20%; border-radius: 3px; border: 1px solid #eaeaea;">
+    <img src="screenshots/windows_1.jpg" alt="" style="width: 20%; border-radius: 3px; border: 1px solid #eaeaea;">
+    <img src="screenshots/windows_2.jpg" alt="" style="width: 20%; border-radius: 3px; border: 1px solid #eaeaea;">
+</p>
+<p style="float: left;">
+    <img src="screenshots/cstats_1.jpg" alt="" style="width: 20%; border-radius: 3px; border: 1px solid #eaeaea;">
+    <img src="screenshots/cstats_2.jpg" alt="" style="width: 20%; border-radius: 3px; border: 1px solid #eaeaea;">
+    <img src="screenshots/devblog_1.jpg" alt="" style="width: 20%; border-radius: 3px; border: 1px solid #eaeaea;">
+    <img src="screenshots/devblog_2.jpg" alt="" style="width: 20%; border-radius: 3px; border: 1px solid #eaeaea;">
+</p>
