@@ -1,6 +1,8 @@
-### What's up?
+### Hi there 👋
 
-💻 Currently I'm learning Ruby on Rails and back-end related stuff, new projects comming soon.
+Currently I'm looking for a job as a **Full-Stack Ruby on Rails Developer** or a **Front-End Developer**. I'm also open to other opportunities.
+
+I'm based in **Poland**, but I'm open to remote work.
 
 ### My side projects:
 It's worth checking out the project [ChronLife](https://github.com/maciejb2k/chronlife), as it's the biggest fullstack project (Rails 7 + Hotwire) on my GitHub.
@@ -22,3 +24,70 @@ It's worth checking out the project [ChronLife](https://github.com/maciejb2k/chr
 #### Others:
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **\*NEW\*** **[No Bullsh*t Git](https://github.com/maciejb2k/no-bs-git)** - my take on explaining fundamental Git concepts.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **[Electronics store](https://github.com/maciejb2k/electronics-store)** - full-stack project with back-end made in PL/pgSQL.
+
+#### Screenshots:
+You can take a quick look at the UI of some of my side projects below.
+
+##### Chronlife:
+<a href="https://github.com/maciejb2k/chronlife">
+  <p style="float: left;">
+    <img src="screenshots/chronlife_1.jpg" alt="" style="width: 45%;">
+    <img src="screenshots/chronlife_2.jpg" alt="" style="width: 45%;">
+  </p>
+</a>
+
+##### IT Job Board:
+<a href="https://github.com/maciejb2k/it-job-board-next">
+  <p style="float: left;">
+    <img src="screenshots/job_board_1.jpg" alt="" style="width: 45%;">
+    <img src="screenshots/job_board_2.jpg" alt="" style="width: 45%;">
+  </p>
+</a>
+
+##### Pathfinding in the store:
+<a href="https://github.com/maciejb2k/pathfinding_app">
+  <p style="float: left;">
+    <img src="screenshots/path_1.jpg" alt="" style="width: 45%;">
+    <img src="screenshots/path_2.jpg" alt="" style="width: 45%;">
+  </p>
+</a>
+
+##### Square breathing:
+<a href="https://github.com/maciejb2k/square_breathing">
+  <p style="float: left;">
+    <img src="screenshots/breath_1.jpg" alt="" style="width: 45%;">
+    <img src="screenshots/breath_2.jpg" alt="" style="width: 45%;">
+  </p>
+</a>
+
+##### No Bullsh*t Git:
+<a href="https://github.com/maciejb2k/no-bs-git">
+  <p style="float: left;">
+    <img src="screenshots/nobsgit_1.jpg" alt="" style="width: 45%;">
+    <img src="screenshots/nobsgit_2.jpg" alt="" style="width: 45%;">
+  </p>
+</a>
+
+##### Windows 10 Explorer clone:
+<a href="https://github.com/maciejb2k/windows-explorer-clone">
+  <p style="float: left;">
+    <img src="screenshots/windows_1.jpg" alt="" style="width: 45%;">
+    <img src="screenshots/windows_2.jpg" alt="" style="width: 45%;">
+  </p>
+</a>
+
+##### CardistryStats:
+<a href="https://github.com/maciejb2k/cardistrystats_frontend">
+  <p style="float: left;">
+    <img src="screenshots/cstats_1.jpg" alt="" style="width: 45%;">
+    <img src="screenshots/cstats_2.jpg" alt="" style="width: 45%;">
+  </p>
+</a>
+
+##### Dev Blog:
+<a href="https://github.com/maciejb2k/dev-blog">
+  <p style="float: left;">
+    <img src="screenshots/devblog_1.jpg" alt="" style="width: 45%;">
+    <img src="screenshots/devblog_2.jpg" alt="" style="width: 45%;">
+  </p>
+</a>
