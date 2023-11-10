@@ -1,8 +1,6 @@
-### Hi there 👋
+## Hello there 👋
 
-Currently I'm looking for a job as a **Full-Stack Ruby on Rails Developer** or a **Front-End Developer**. I'm also open to other opportunities.
-
-I'm based in **Poland**, but I'm open to remote work.
+Within next 3 months  I will be looking for my first job as a **Full-Stack Ruby on Rails Developer** or a **Front-End Developer**. I'm also open to other opportunities.
 
 ### My side projects:
 It's worth checking out the project [ChronLife](https://github.com/maciejb2k/chronlife), as it's the biggest fullstack project (Rails 7 + Hotwire) on my GitHub.
