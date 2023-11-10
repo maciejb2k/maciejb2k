@@ -29,25 +29,13 @@ It's worth checking out the project [ChronLife](https://github.com/maciejb2k/chr
 
 <p style="float: left;">
   <img src="screenshots/chronlife_1.jpg" alt="" style="width: 20%; border-radius: 3px; border: 1px solid #eaeaea;">
-  <img src="screenshots/chronlife_2.jpg" alt="" style="width: 20%; border-radius: 3px; border: 1px solid #eaeaea;">
   <img src="screenshots/job_board_1.jpg" alt="" style="width: 20%; border-radius: 3px; border: 1px solid #eaeaea;">
-  <img src="screenshots/job_board_2.jpg" alt="" style="width: 20%; border-radius: 3px; border: 1px solid #eaeaea;">
+  <img src="screenshots/path_1.jpg" alt="" style="width: 20%; border-radius: 3px; border: 1px solid #eaeaea;">
+  <img src="screenshots/breath_2.jpg" alt="" style="width: 20%; border-radius: 3px; border: 1px solid #eaeaea;">
 </p>
 <p style="float: left;">
-    <img src="screenshots/path_1.jpg" alt="" style="width: 20%; border-radius: 3px; border: 1px solid #eaeaea;">
-    <img src="screenshots/path_2.jpg" alt="" style="width: 20%; border-radius: 3px; border: 1px solid #eaeaea;">
-    <img src="screenshots/breath_1.jpg" alt="" style="width: 20%; border-radius: 3px; border: 1px solid #eaeaea;">
-    <img src="screenshots/breath_2.jpg" alt="" style="width: 20%; border-radius: 3px; border: 1px solid #eaeaea;">
-</p>
-<p style="float: left;">
-    <img src="screenshots/nobsgit_1.jpg" alt="" style="width: 20%; border-radius: 3px; border: 1px solid #eaeaea;">
-    <img src="screenshots/nobsgit_2.jpg" alt="" style="width: 20%; border-radius: 3px; border: 1px solid #eaeaea;">
-    <img src="screenshots/windows_1.jpg" alt="" style="width: 20%; border-radius: 3px; border: 1px solid #eaeaea;">
-    <img src="screenshots/windows_2.jpg" alt="" style="width: 20%; border-radius: 3px; border: 1px solid #eaeaea;">
-</p>
-<p style="float: left;">
-    <img src="screenshots/cstats_1.jpg" alt="" style="width: 20%; border-radius: 3px; border: 1px solid #eaeaea;">
-    <img src="screenshots/cstats_2.jpg" alt="" style="width: 20%; border-radius: 3px; border: 1px solid #eaeaea;">
-    <img src="screenshots/devblog_1.jpg" alt="" style="width: 20%; border-radius: 3px; border: 1px solid #eaeaea;">
-    <img src="screenshots/devblog_2.jpg" alt="" style="width: 20%; border-radius: 3px; border: 1px solid #eaeaea;">
+  <img src="screenshots/nobsgit_1.jpg" alt="" style="width: 20%; border-radius: 3px; border: 1px solid #eaeaea;">
+  <img src="screenshots/windows_1.jpg" alt="" style="width: 20%; border-radius: 3px; border: 1px solid #eaeaea;">
+  <img src="screenshots/cstats_1.jpg" alt="" style="width: 20%; border-radius: 3px; border: 1px solid #eaeaea;">
+  <img src="screenshots/devblog_1.jpg" alt="" style="width: 20%; border-radius: 3px; border: 1px solid #eaeaea;">
 </p>
