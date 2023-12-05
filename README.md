@@ -11,6 +11,7 @@ It's worth checking out the project [ChronLife](https://github.com/maciejb2k/chr
 
 #### Frontend:
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **\*NEW\*** **[IT job board](https://github.com/maciejb2k/it-job-board-next)** - front-end for my IT job board API made with the Next.js 13.5.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **\*NEW\*** **[TechHub](https://github.com/maciejb2k/tech-hub)** - global freelance network for engineers.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **[Windows 10 explorer clone](https://github.com/maciejb2k/windows-explorer-clone)** - I recreated the Windows Explorer 1:1.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **[Pathfinding in store](https://github.com/maciejb2k/pathfinding_app)** - app for finding the shortest path in store.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **[Square breathing](https://github.com/maciejb2k/square_breathing)** - app for practising square breathing technique.
