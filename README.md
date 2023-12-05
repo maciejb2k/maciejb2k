@@ -13,7 +13,7 @@ It's worth checking out the project [ChronLife](https://github.com/maciejb2k/chr
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **\*NEW\*** **[IT job board](https://github.com/maciejb2k/it-job-board-next)** - front-end for my IT job board API made with the Next.js 13.5.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **\*NEW\*** **[TechHub](https://github.com/maciejb2k/tech-hub)** - global freelance network for engineers.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **[Windows 10 explorer clone](https://github.com/maciejb2k/windows-explorer-clone)** - I recreated the Windows Explorer 1:1.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **[Pathfinding in store](https://github.com/maciejb2k/pathfinding_app)** - app for finding the shortest path in store.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **[Pathfinding in the store](https://github.com/maciejb2k/pathfinding_app)** - app for finding the shortest path in the store.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **[Square breathing](https://github.com/maciejb2k/square_breathing)** - app for practising square breathing technique.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **[CardistryStats](https://github.com/maciejb2k/cardistrystats_frontend)** - social platform connecting people shuffling cards.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **[Sorting algorithms](https://github.com/maciejb2k/sorting_algorithms_js)** - app visualizing basic sorting algorithms.
@@ -27,16 +27,16 @@ It's worth checking out the project [ChronLife](https://github.com/maciejb2k/chr
 You can take a look at the UI on some of my side projects below.
 
 <p style="float: left;">
-  <a href="https://github.com/maciejb2k/square_breathing"><img src="screenshots/techhub.jpg" alt="" style="width: 18%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
-  <a href="https://github.com/maciejb2k/chronlife"><img src="screenshots/chronlife_1.jpg" alt="" style="width: 18%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
-  <a href="https://github.com/maciejb2k/it-job-board-next"><img src="screenshots/job_board_1.jpg" alt="" style="width: 18%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
-  <a href="https://github.com/maciejb2k/pathfinding_app"><img src="screenshots/path_2.jpg" alt="" style="width: 18%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
-  <a href="https://github.com/maciejb2k/chronlife"><img src="screenshots/chronlife_2.jpg" alt="" style="width: 18%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
+  <a href="https://github.com/maciejb2k/square_breathing"><img src="screenshots/techhub.jpg" alt="" style="width: 17%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
+  <a href="https://github.com/maciejb2k/chronlife"><img src="screenshots/chronlife_1.jpg" alt="" style="width: 17%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
+  <a href="https://github.com/maciejb2k/it-job-board-next"><img src="screenshots/job_board_1.jpg" alt="" style="width: 17%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
+  <a href="https://github.com/maciejb2k/pathfinding_app"><img src="screenshots/path_2.jpg" alt="" style="width: 17%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
+  <a href="https://github.com/maciejb2k/chronlife"><img src="screenshots/chronlife_2.jpg" alt="" style="width: 17%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
 </p>
 <p style="float: left;">
-  <a href="https://github.com/maciejb2k/square_breathing"><img src="screenshots/breath_2.jpg" alt="" style="width: 18%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
-  <a href="https://github.com/maciejb2k/windows-explorer-clone"><img src="screenshots/windows_1.jpg" alt="" style="width: 18%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
-  <a href="https://github.com/maciejb2k/cardistrystats_frontend"><img src="screenshots/cstats_1.jpg" alt="" style="width: 18%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
-  <a href="https://github.com/maciejb2k/cardistrystats_frontend"><img src="screenshots/devblog_2.jpg" alt="" style="width: 18%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
-  <a href="https://maciejb2k.github.io/no-bs-git/"><img src="screenshots/nobsgit_1.jpg" alt="" style="width: 18%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
+  <a href="https://github.com/maciejb2k/square_breathing"><img src="screenshots/breath_2.jpg" alt="" style="width: 17%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
+  <a href="https://github.com/maciejb2k/cardistrystats_frontend"><img src="screenshots/cstats_1.jpg" alt="" style="width: 17%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
+  <a href="https://github.com/maciejb2k/cardistrystats_frontend"><img src="screenshots/devblog_2.jpg" alt="" style="width: 17%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
+  <a href="https://maciejb2k.github.io/no-bs-git/"><img src="screenshots/nobsgit_1.jpg" alt="" style="width: 17%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
+  <a href="https://github.com/maciejb2k/windows-explorer-clone"><img src="screenshots/windows_1.jpg" alt="" style="width: 17%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
 </p>
