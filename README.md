@@ -1,5 +1,5 @@
 ### Hello there 💫
-At the beginning of 2024, I will be looking for a job as a **Full-Stack Ruby on Rails Developer** or a **Front-End Developer**. I'm also open to other opportunities like **DevOps** stuff.
+I am looking for a job as a **Full-Stack Ruby on Rails Developer** or a **Front-End Developer**. I'm also open to other opportunities like **DevOps** stuff.
 
 ### My side projects:
 It's worth checking out the project [ChronLife](https://github.com/maciejb2k/chronlife), as it's the biggest fullstack project (Rails 7 + Hotwire) on my GitHub.
