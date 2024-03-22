@@ -5,6 +5,7 @@ It's worth checking out the project [ChronLife](https://github.com/maciejb2k/chr
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **[ChronLife](https://github.com/maciejb2k/chronlife)** - Full-stack social platform for people with chronic diseases.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **[IT job board](https://github.com/maciejb2k/it-job-board-rails)** - REST API job posting platform.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **[Cookbook](https://github.com/maciejb2k/cookbook-RBE4)** - group project done during onsite Rails academy.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **[ToiletPeek](https://github.com/maciejb2k/toiletpeek-api)** - real-time ESP32 + NestJS + Socket.io data streaming.
 
 #### Frontend:
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **[IT job board](https://github.com/maciejb2k/it-job-board-next)** - front-end for my IT job board API made with the Next.js 13.5.
