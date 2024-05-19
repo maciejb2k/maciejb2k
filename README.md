@@ -1,5 +1,5 @@
 ### Hello there 💫
-It's worth checking out the project [ChronLife](https://github.com/maciejb2k/chronlife), as it's the biggest fullstack project (Rails 7 + Hotwire) on my GitHub.
+Currently, I'm working as a Full-Stack Ruby on Rails Developer. Below, you can check out some of my side projects that I made for fun over the past few years:
 
 #### Backend:
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **[ChronLife](https://github.com/maciejb2k/chronlife)** - Full-stack social platform for people with chronic diseases.
