@@ -1,5 +1,5 @@
 ### Hello there 💫
-Currently, I'm working as a Full-Stack Ruby on Rails Developer. Below, you can check out some of my side projects that I made for fun over the past few years:
+Currently, I'm working as a Ruby on Rails Developer. Below, you can check out some of my side projects that I made for fun over the past few years:
 
 #### Backend:
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **[ChronLife](https://github.com/maciejb2k/chronlife)** - Full-stack social platform for people with chronic diseases.
