@@ -3,6 +3,7 @@ Currently, I'm working as a Ruby on Rails Developer. Below, you can check out so
 
 #### Backend:
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **[ChronLife](https://github.com/maciejb2k/chronlife)** - Full-stack social platform for people with chronic diseases.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **[Silent Dose](https://github.com/maciejb2k/silent-dose)** - App for tracking dietary supplement intake.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **[Project Management](https://github.com/maciejb2k/project-management-graphql)** - Simple project management system with GraphQL API.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **[IT job board](https://github.com/maciejb2k/it-job-board-rails)** - REST API job posting platform.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **[Cookbook](https://github.com/maciejb2k/cookbook-RBE4)** - group project done during onsite Rails academy.
@@ -26,7 +27,7 @@ Currently, I'm working as a Ruby on Rails Developer. Below, you can check out so
 You can take a look at the UI on some of my side projects below.
 
 <p style="float: left;">
-  <a href="https://github.com/maciejb2k/square_breathing"><img src="screenshots/techhub.jpg" alt="" style="width: 17%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
+  <a href="https://github.com/maciejb2k/tech-hub"><img src="screenshots/techhub.jpg" alt="" style="width: 17%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
   <a href="https://github.com/maciejb2k/chronlife"><img src="screenshots/chronlife_1.jpg" alt="" style="width: 17%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
   <a href="https://github.com/maciejb2k/it-job-board-next"><img src="screenshots/job_board_1.jpg" alt="" style="width: 17%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
   <a href="https://github.com/maciejb2k/pathfinding_app"><img src="screenshots/path_2.jpg" alt="" style="width: 17%; border-radius: 3px; border: 1px solid #eaeaea;"></a>
