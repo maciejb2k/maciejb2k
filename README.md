@@ -3,6 +3,7 @@ Currently, I'm working as a Ruby on Rails Developer. Below, you can check out so
 
 #### Backend:
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **[ChronLife](https://github.com/maciejb2k/chronlife)** - Full-stack social platform for people with chronic diseases.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **[AI Chatbots](https://github.com/maciejb2k/rails-ai-chatbots)** - Create a RAG AI Chatbot with knowledge store from any website in seconds.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **[Silent Dose](https://github.com/maciejb2k/silent-dose)** - App for tracking dietary supplement intake.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **[Project Management](https://github.com/maciejb2k/project-management-graphql)** - Simple project management system with GraphQL API.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16" height="16" style="position: relative; top: 5px;" /> - **[IT job board](https://github.com/maciejb2k/it-job-board-rails)** - REST API job posting platform.
