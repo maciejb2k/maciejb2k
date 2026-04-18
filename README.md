@@ -2,28 +2,88 @@
 Currently, I'm working as a Ruby on Rails Developer. Below, you can check out some of my side projects that I made for fun over the past few years:
 
 #### Backend:
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16" height="16" style="position: relative; top: 5px; display: inline;" /> - **[ChronLife](https://github.com/maciejb2k/chronlife)** - Full-stack social platform for people with chronic diseases.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16" height="16" style="position: relative; top: 5px; display: inline;" /> - **[Security in Rails](https://github.com/maciejb2k/ruby-on-rails-security)** - OWASP Top 10 vulnerabilities demonstrated in Rails applications.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16" height="16" style="position: relative; top: 5px; display: inline;" /> - **[F1 Telemetry](https://github.com/maciejb2k/f1-telemetry)** - Microservices-based system for real-time F1 data monitoring using RabbitMQ and Docker.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16" height="16" style="position: relative; top: 5px; display: inline;" /> - **[Silent Dose](https://github.com/maciejb2k/silent-dose)** - App for tracking dietary supplement intake.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16" height="16" style="position: relative; top: 5px; display: inline;" /> - **[Project Management](https://github.com/maciejb2k/project-management-graphql)** - Simple project management system with GraphQL API.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16" height="16" style="position: relative; top: 5px; display: inline;" /> - **[IT job board](https://github.com/maciejb2k/it-job-board-rails)** - REST API job posting platform.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16" height="16" style="position: relative; top: 5px; display: inline;" /> - **[AI Chatbots](https://github.com/maciejb2k/rails-ai-chatbots)** - Create a RAG AI Chatbot with knowledge store from any website.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="16" height="16" style="position: relative; top: 5px; display: inline;" /> - **[ToiletPeek](https://github.com/maciejb2k/toiletpeek-api)** - real-time ESP32 + NestJS + Socket.io data streaming.
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16" height="16" /></td>
+    <td><strong><a href="https://github.com/maciejb2k/chronlife">ChronLife</a></strong> - Full-stack social platform for people with chronic diseases.</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16" height="16" /></td>
+    <td><strong><a href="https://github.com/maciejb2k/ruby-on-rails-security">Security in Rails</a></strong> - OWASP Top 10 vulnerabilities demonstrated in Rails applications.</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16" height="16" /></td>
+    <td><strong><a href="https://github.com/maciejb2k/f1-telemetry">F1 Telemetry</a></strong> - Microservices-based system for real-time F1 data monitoring using RabbitMQ and Docker.</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16" height="16" /></td>
+    <td><strong><a href="https://github.com/maciejb2k/silent-dose">Silent Dose</a></strong> - App for tracking dietary supplement intake.</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16" height="16" /></td>
+    <td><strong><a href="https://github.com/maciejb2k/project-management-graphql">Project Management</a></strong> - Simple project management system with GraphQL API.</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16" height="16" /></td>
+    <td><strong><a href="https://github.com/maciejb2k/it-job-board-rails">IT job board</a></strong> - REST API job posting platform.</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16" height="16" /></td>
+    <td><strong><a href="https://github.com/maciejb2k/rails-ai-chatbots">AI Chatbots</a></strong> - Create a RAG AI Chatbot with knowledge store from any website.</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="16" height="16" /></td>
+    <td><strong><a href="https://github.com/maciejb2k/toiletpeek-api">ToiletPeek</a></strong> - real-time ESP32 + NestJS + Socket.io data streaming.</td>
+  </tr>
+</table>
 
 #### Frontend:
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="16" height="16" style="position: relative; top: 5px; display: inline;" /> - **[IT job board](https://github.com/maciejb2k/it-job-board-next)** - front-end for my IT job board API made with the Next.js 13.5.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="16" height="16" style="position: relative; top: 5px; display: inline;" /> - **[TechHub](https://github.com/maciejb2k/tech-hub)** - global freelance network for engineers.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="16" height="16" style="position: relative; top: 5px; display: inline;" /> - **[Windows 10 explorer clone](https://github.com/maciejb2k/windows-explorer-clone)** - I recreated the Windows Explorer 1:1.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16" height="16" style="position: relative; top: 5px; display: inline;" /> - **[Pathfinding in the store](https://github.com/maciejb2k/pathfinding_app)** - app for finding the shortest path in the store.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16" height="16" style="position: relative; top: 5px; display: inline;" /> - **[Square breathing](https://github.com/maciejb2k/square_breathing)** - app for practising square breathing technique.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16" height="16" style="position: relative; top: 5px; display: inline;" /> - **[CardistryStats](https://github.com/maciejb2k/cardistrystats_frontend)** - social platform connecting people shuffling cards.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16" height="16" style="position: relative; top: 5px; display: inline;" /> - **[Sorting algorithms](https://github.com/maciejb2k/sorting_algorithms_js)** - app visualizing basic sorting algorithms.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" width="16" height="16" style="position: relative; top: 5px; display: inline;" /> - **[Dev blog](https://github.com/maciejb2k/dev-blog)** - personal blog about what I learned.
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="16" height="16" /></td>
+    <td><strong><a href="https://github.com/maciejb2k/it-job-board-next">IT job board</a></strong> - front-end for my IT job board API made with the Next.js 13.5.</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="16" height="16" /></td>
+    <td><strong><a href="https://github.com/maciejb2k/tech-hub">TechHub</a></strong> - global freelance network for engineers.</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="16" height="16" /></td>
+    <td><strong><a href="https://github.com/maciejb2k/windows-explorer-clone">Windows 10 explorer clone</a></strong> - I recreated the Windows Explorer 1:1.</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16" height="16" /></td>
+    <td><strong><a href="https://github.com/maciejb2k/pathfinding_app">Pathfinding in the store</a></strong> - app for finding the shortest path in the store.</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16" height="16" /></td>
+    <td><strong><a href="https://github.com/maciejb2k/square_breathing">Square breathing</a></strong> - app for practising square breathing technique.</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16" height="16" /></td>
+    <td><strong><a href="https://github.com/maciejb2k/cardistrystats_frontend">CardistryStats</a></strong> - social platform connecting people shuffling cards.</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16" height="16" /></td>
+    <td><strong><a href="https://github.com/maciejb2k/sorting_algorithms_js">Sorting algorithms</a></strong> - app visualizing basic sorting algorithms.</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" width="16" height="16" /></td>
+    <td><strong><a href="https://github.com/maciejb2k/dev-blog">Dev blog</a></strong> - personal blog about what I learned.</td>
+  </tr>
+</table>
 
 #### Others:
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16" height="16" style="position: relative; top: 5px; display: inline;" /> - **[No Bullsh*t Git](https://github.com/maciejb2k/no-bs-git)** - my take on explaining fundamental Git concepts.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="16" height="16" style="position: relative; top: 5px; display: inline;" /> - **[Electronics store](https://github.com/maciejb2k/electronics-store)** - full-stack project with back-end made in PL/pgSQL.
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16" height="16" /></td>
+    <td><strong><a href="https://github.com/maciejb2k/no-bs-git">No Bullsh*t Git</a></strong> - my take on explaining fundamental Git concepts.</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="16" height="16" /></td>
+    <td><strong><a href="https://github.com/maciejb2k/electronics-store">Electronics store</a></strong> - full-stack project with back-end made in PL/pgSQL.</td>
+  </tr>
+</table>
 
 #### Screenshots:
 You can take a look at the UI on some of my side projects below.
