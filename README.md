@@ -5,6 +5,10 @@ Currently, I'm working as a Ruby on Rails Developer. Below, you can check out so
 <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16" height="16" /></td>
+    <td><strong><a href="https://github.com/maciejb2k/open-banking-rails">Open Banking Rails</a></strong> - Self-hosted open-banking aggregator for the EU. Rails 8 + PSD2/AISP + AI categorization.</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16" height="16" /></td>
     <td><strong><a href="https://github.com/maciejb2k/chronlife">ChronLife</a></strong> - Full-stack social platform for people with chronic diseases.</td>
   </tr>
   <tr>
@@ -30,10 +34,6 @@ Currently, I'm working as a Ruby on Rails Developer. Below, you can check out so
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16" height="16" /></td>
     <td><strong><a href="https://github.com/maciejb2k/rails-ai-chatbots">AI Chatbots</a></strong> - Create a RAG AI Chatbot with knowledge store from any website.</td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="16" height="16" /></td>
-    <td><strong><a href="https://github.com/maciejb2k/toiletpeek-api">ToiletPeek</a></strong> - real-time ESP32 + NestJS + Socket.io data streaming.</td>
   </tr>
 </table>
 
@@ -82,6 +82,10 @@ Currently, I'm working as a Ruby on Rails Developer. Below, you can check out so
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="16" height="16" /></td>
     <td><strong><a href="https://github.com/maciejb2k/electronics-store">Electronics store</a></strong> - full-stack project with back-end made in PL/pgSQL.</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="16" height="16" /></td>
+    <td><strong><a href="https://github.com/maciejb2k/toiletpeek-api">ToiletPeek</a></strong> - real-time ESP32 + NestJS + Socket.io data streaming.</td>
   </tr>
 </table>
 
