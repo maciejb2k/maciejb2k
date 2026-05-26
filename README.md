@@ -1,5 +1,5 @@
 ### Hello there 💫
-Currently, I'm working as a Ruby on Rails Developer. Below, you can check out some of my side projects that I made for fun over the past few years:
+Currently, I'm working as a Support Engineer. Below, you can check out some of my side projects that I made for fun over the past few years:
 
 #### Backend:
 <table>
