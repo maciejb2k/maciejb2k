@@ -71,10 +71,6 @@ Currently, I'm working as a Support Engineer. Below, you can check out some of m
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16" height="16" /></td>
     <td><strong><a href="https://github.com/maciejb2k/sorting_algorithms_js">Sorting algorithms</a></strong> - app visualizing basic sorting algorithms.</td>
   </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" width="16" height="16" /></td>
-    <td><strong><a href="https://github.com/maciejb2k/dev-blog">Dev blog</a></strong> - personal blog about what I learned.</td>
-  </tr>
 </table>
 
 #### Others:
