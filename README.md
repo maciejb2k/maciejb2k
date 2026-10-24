@@ -41,7 +41,7 @@ Currently, I'm working as a Support Engineer. Below, you can check out some of m
 <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16" height="16" /></td>
-    <td><strong><a href="https://github.com/maciejb2k/it-job-board-next">HR Breath Pacer</a></strong> - generative ambient music that follows your live heart rate.</td>
+    <td><strong><a href="https://github.com/maciejb2k/hr-breath-pacer">HR Breath Pacer</a></strong> - generative ambient music that follows your live heart rate.</td>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="16" height="16" /></td>
